@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="posts">постів</string>
+    <string name="followers">послідовників</string>
+    <string name="following">послідуваних</string>
+    <string name="calling">Телефонуємо …</string>
+</resources>
